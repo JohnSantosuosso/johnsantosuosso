@@ -2,7 +2,7 @@
 
 I'm John Santosuosso, a former IT specialist, high school teacher, and coach.  My coding journey began several years back when I was a high school business teacher and was informed I'd be teaching a programming course in the upcoming year.  With no prior coding experience, I somehow made it through the year by relying heavily on the teachers' guides.  That teaching experience exposed me to a world I never knew existed.
 
-Soon after that experience, I left teaching to take an opportunity providing IT support for the school district I worked for.  Although I enjoyed managing servers, reimaging machines, diagnosing network issues, and helping students when their laptop keys went missing(too many times to count), I yearned for the opportunity write software.  First, I needed to actually learn how.
+Soon after that experience, I left teaching to take an opportunity providing IT support for the school district I worked for.  Although I enjoyed managing servers, reimaging machines, diagnosing network issues, and helping students when their laptop keys went missing(too many times to count), I yearned for the opportunity write software.
 
 I enrolled at Turing School of Software and Design in May 2022 on the recommendation of a close friend who had previously worked with Turing graduates at several startups.
 
