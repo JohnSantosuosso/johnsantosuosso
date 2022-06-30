@@ -1,4 +1,4 @@
-**"Talent wins games, but teamwork and intelligence wins championships." --Michael Jordan**
+## "Talent wins games, but teamwork and intelligence wins championships." --Michael Jordan
 
 I'm John Santosuosso, a former IT specialist, high school teacher, and coach.  My coding journey began several years back when I was a high school business teacher and my supervisor informed me I'd be teaching a programming course in the upcoming year.  With no prior coding experience, I somehow made it through the year by relying heavily on the teachers' guides.  That teaching experience exposed me to a world I never knew existed.
 
@@ -10,5 +10,5 @@ I'm currently working on learning Ruby on Rails.  I'm always looking for feedbac
 
 Oh and by the way, I chose that quote at the top because that's a core belief of mine.  Whether it's NBA championships or pushing a new feature to production--it's a team game and I'm ready to do whatever it takes to help the team succeed.
 
-## If you happen to stumble across my repos and we don't know each other, let's change that!  You can reach me anytime at John.Santosuosso1@gmail.com or on LinkedIn at www.linkedin.com/in/john-santosuosso 
+*If you happen to stumble across my repos and we don't know each other, let's change that!  You can reach me anytime at John.Santosuosso1@gmail.com or on LinkedIn at www.linkedin.com/in/john-santosuosso *
 
