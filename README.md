@@ -10,5 +10,6 @@ I'm currently working on learning Ruby on Rails.  I'm always looking for feedbac
 
 Oh and by the way, I chose that quote at the top because that's a core belief of mine.  Whether it's NBA championships or pushing a new feature to production--it's a team game and I'm ready to do whatever it takes to help the team succeed.
 
+If you happen to come across this page and we don't know each other, please feel free to reach out anytime.  I'd love to connect!
 
 
