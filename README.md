@@ -1,4 +1,4 @@
-## "Talent wins games, but teamwork and intelligence wins championships." --Michael Jordan
+# "Talent wins games, but teamwork and intelligence wins championships." --Michael Jordan
 
 I'm John Santosuosso, a former IT specialist, high school teacher, and coach.  My coding journey began several years back when I was a high school business teacher and my supervisor informed me I'd be teaching a programming course in the upcoming year.  With no prior coding experience, I somehow made it through the year by relying heavily on the teachers' guides.  That teaching experience exposed me to a world I never knew existed.
 
