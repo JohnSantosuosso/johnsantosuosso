@@ -10,5 +10,5 @@ I'm currently working on learning **Ruby on Rails**.  I'm always looking for fee
 
 Oh and by the way, I chose that quote at the top because that's a core belief of mine.  Whether it's NBA championships or pushing a new feature to production--it's a team game and I'm ready to do whatever it takes to help the team succeed.
 
-* If you happen to stumble across my repos and we don't know each other, let's change that!  You can reach me anytime at John.Santosuosso1@gmail.com or on LinkedIn at www.linkedin.com/in/john-santosuosso
+* If you happen to stumble across my repos and we don't know each other, let's change that!  Shoot me a message anytime at John.Santosuosso1@gmail.com or on LinkedIn at www.linkedin.com/in/john-santosuosso
 
