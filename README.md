@@ -1,6 +1,6 @@
 **"Talent wins games, but teamwork and intelligence wins championships." --Michael Jordan**
 
-I'm John Santosuosso, a former IT specialist, high school teacher, and coach.  My coding journey began several years back when I was a high school business teacher and was informed I'd be teaching a programming course in the upcoming year.  With no prior coding experience, I somehow made it through the year by relying heavily on the teachers' guides.  That teaching experience exposed me to a world I never knew existed.
+I'm John Santosuosso, a former IT specialist, high school teacher, and coach.  My coding journey began several years back when I was a high school business teacher and my supervisor informed me I'd be teaching a programming course in the upcoming year.  With no prior coding experience, I somehow made it through the year by relying heavily on the teachers' guides.  That teaching experience exposed me to a world I never knew existed.
 
 Soon after that experience, I left teaching to take an opportunity providing IT support for the school district I worked for.  Although I enjoyed managing servers, reimaging machines, diagnosing network issues, and helping students when their laptop keys went missing(too many times to count), I yearned for the opportunity write software.
 
