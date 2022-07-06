@@ -1,12 +1,11 @@
-### "Talent wins games, but teamwork and intelligence wins championships." --Michael Jordan
+### “There may be people that have more talent than you, but there’s no excuse for anyone to work harder than you do.” – Derek Jeter
 
-I'm John Santosuosso, a former IT specialist, high school teacher, and coach.  My journey began several years back when I was a high school business teacher and my supervisor informed me I'd be teaching a programming course in the upcoming year.  With no prior coding experience, I somehow made it through the year by relying heavily on the teachers' guides.  That experience exposed me to a world I never knew existed.
+I'm John Santosuosso, former IT specialist, high school teacher, and coach. My journey began several years ago when I was teaching high school and my supervisor informed me that I would be teaching a programming class in the upcoming year. With no prior coding experience, I somehow made it through the year by relying heavily on the teachers' guides. That experience exposed me to a world I never knew existed.
 
-Soon after that experience, I left teaching to further my newfound passion for technology and learning by taking an opportunity providing IT support for the school district I worked for.  Although I enjoyed managing servers, reimaging machines, diagnosing network issues, and helping students when their laptop keys went missing(too many times to count), I yearned for an opportunity create applications.
+Soon after that, I left teaching to embrace my newfound passion for technology and took a job as an IT support specialist for the school system I worked for. Although I enjoyed managing servers, reimaging machines, diagnosing network issues, and helping students when their laptop keys went missing(too many times to count), I yearned for an opportunity create applications.
 
-I enrolled at **Turing School of Software and Design** in March 2022 on the recommendation of a close friend who had previously worked with Turing graduates at several startups.
+I enrolled at Turing School of Software and Design in March 2022 on the recommendation of a close friend who had previously worked with Turing graduates at several startups.
 
-I'm currently working on learning **Ruby on Rails**.  I'm always looking for feedback, collaboration, and/or mentorship on anything related to software development--whether it be feedback on code, pair programming sessions, or anything that promotes learning and growth.
+I'm currently working on learning Ruby on Rails. I'm always grateful for feedback, collaborative opportunities, and/or mentorship on anything software development-related.  In addition to my current studies, I am also interested in cybersecurity and its overlap with web development.
 
 * If you happen to stumble across my repos and we don't know each other, let's change that!  Shoot me a message anytime at John.Santosuosso1@gmail.com or on LinkedIn at www.linkedin.com/in/john-santosuosso
-
