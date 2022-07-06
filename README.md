@@ -8,7 +8,5 @@ I enrolled at **Turing School of Software and Design** in May 2022 on the recomm
 
 I'm currently working on learning **Ruby on Rails**.  I'm always looking for feedback, collaboration, and/or mentorship on anything related to software development--whether it be feedback on code, pair programming sessions, or anything that promotes learning and growth.
 
-Oh and by the way, I chose that quote at the top because that's a core belief of mine.  Whether it's NBA championships or pushing a new feature to production--I believe everything is a team game. I'm the type of person who is committed to doing whatever it takes to help the team succeed.
-
 * If you happen to stumble across my repos and we don't know each other, let's change that!  Shoot me a message anytime at John.Santosuosso1@gmail.com or on LinkedIn at www.linkedin.com/in/john-santosuosso
 
