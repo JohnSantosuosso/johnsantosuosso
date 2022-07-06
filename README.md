@@ -4,7 +4,7 @@ I'm John Santosuosso, a former IT specialist, high school teacher, and coach.  M
 
 Soon after that experience, I left teaching to further my newfound passion for technology and learning by taking an opportunity providing IT support for the school district I worked for.  Although I enjoyed managing servers, reimaging machines, diagnosing network issues, and helping students when their laptop keys went missing(too many times to count), I yearned for an opportunity create applications.
 
-I enrolled at **Turing School of Software and Design** in May 2022 on the recommendation of a close friend who had previously worked with Turing graduates at several startups.
+I enrolled at **Turing School of Software and Design** in March 2022 on the recommendation of a close friend who had previously worked with Turing graduates at several startups.
 
 I'm currently working on learning **Ruby on Rails**.  I'm always looking for feedback, collaboration, and/or mentorship on anything related to software development--whether it be feedback on code, pair programming sessions, or anything that promotes learning and growth.
 
