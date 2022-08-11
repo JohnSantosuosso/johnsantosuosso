@@ -1,5 +1,5 @@
-Hello, I'm John Santosuosso, a former IT specialist, high school teacher, and coach. My journey began several years ago while I was a teacher. My supervisor informed me I'd be teaching a programming class in the upcoming year. With no prior coding experience, I relied heavily on self-guided learning and teachers' guides. That life-changing year exposed me to a world I never knew existed before. I was hooked!
+I'm John Santosuosso, a former IT support specialist, high school teacher, and coach. My journey started several years ago when I developed a passion for computers and technology.
 
-After taking computer hardware and network classes in the evenings, I left teaching to embrace my passion and took a job as an IT support specialist for the school system. Although I enjoyed reimaging machines and helping students when their laptop keys went missing(too many times to count), I yearned for an opportunity create web applications, so I went back to school to learn more.
+I began taking computer hardware and networking classes in the evenings and eventually learned enough to land a job as an IT support specialist. After several years, I decided I wanted to build web applications so I went back to school to learn how.
 
-I'm currently working with Ruby on Rails, PostgreSQL, ActiveRecord, Heroku, and TDD. I'm always grateful for feedback, collaborative opportunities, and/or mentorship on anything software development-related. In addition to my current projects, I am also interested in cybersecurity and its overlap with web development.
+I value collaboration, communication, and transparency.  I take pride in working hard and believe strongly in the 'growth mindset' concept.
