@@ -1,4 +1,4 @@
-I am John Santosuosso, a web developer, IT professional, and lifelong learner.
+I am John Santosuosso, web developer, IT professional, and lifelong learner.
 
 Prior to building web applications, I served as an IT specialist at a large public high school located outside Washington DC.  I managed support services for all IT infrastructure and successfully led the school's transition into the world of digital learning and instruction.
 
