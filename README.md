@@ -1,7 +1,7 @@
-I am John Santosuosso, web developer, IT professional, and lifelong learner.
+I'm John Santosuosso--team-player, lifelong learner, and web developer.
 
-Prior to building web applications, I served as an IT specialist at a large public high school located outside Washington DC.  I managed support services for all IT infrastructure and successfully led the school's transition into the world of digital learning and instruction.
+I currently build web applications using Ruby on Rails, Bootstrap, and jQuery.  I work within an Agile framework to deliver TDD-focused solutions.  I embrace teamwork and communication while welcoming opportunities to challenge myself daily.
 
-I have also worked as a public school teacher where I built strong relationships through trust and communication.
+Prior to my current role, I served as an IT specialist for a large public school district outside Washington DC.
 
-I am currently building full stack apps, primarily within the RoR framework.  I am always looking for opportunities to learn, grow, collaborate, and evolve.
+I have also worked as a public school teacher where I focused on building strong relationships through trust and communication.
