@@ -1,7 +1,9 @@
-I'm John Santosuosso--team-player, lifelong learner, and web developer.
+Hi! I'm John Santosuosso, software engineer and lifelong learner.
 
-Currently, I build web applications using Ruby on Rails, Bootstrap, and jQuery.  I work within an Agile framework to deliver TDD-focused solutions.  I embrace teamwork and communication while welcoming opportunities to challenge myself daily.
+I primarily build in Ruby on Rails, with an active interest in learning new and emerging web frameworks. I love collaborative spaces where I can exercise my technical and communication skills to create innovative and scalable solutions.
 
-Prior to my current role, I served as an IT specialist for a large public school district outside Washington DC.
+Prior to working as a software engineer, I served as an IT specialist for a large public school district outside Washington DC.
 
-I have also worked as a public school teacher where I focused on building strong relationships through trust and communication.
+In my free time, I am evolving my knowledge of JavaScript and Data Structures/Algorithms while continuing to strive towards writing cleaner and more succinct Ruby.
+
+I'm always looking for opportunities to grow and collaborate.  Let's connect!
