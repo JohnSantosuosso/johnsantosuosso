@@ -1,9 +1,9 @@
-Hi! I'm John Santosuosso, software engineer and lifelong learner.
+I'm John Santosuosso, software engineer and lifelong learner.
 
-I primarily build in Ruby on Rails, with an active interest in learning new and emerging web frameworks. I love collaborative spaces where I can exercise my technical and communication skills to create innovative and scalable solutions.
+I enjoy writing clean code, debugging complex issues, and creating thorough documentation.
 
-Prior to working as a software engineer, I served as an IT specialist for a large public school district outside Washington DC.
+My other interests include Cybersecurity, CI/CD, and full-stack development.
 
-In my free time, I am evolving my knowledge of JavaScript and Data Structures/Algorithms while continuing to strive towards writing cleaner and more succinct Ruby.
+Prior to working as a software engineer, I worked as an IT specialist for one of the largest public school systems in the United States.  I have also taught programming and personal finance courses to high school students.
 
-I'm always looking for opportunities to grow and collaborate.  Let's connect!
+I value collaboration, communication, honesty, and adaptability. Let's connect!
