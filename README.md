@@ -1,3 +1,5 @@
-I'm John Santosuosso, software engineer and lifelong learner.
+Persistent, creative, adaptable, honest, lifelong learner, voracious reader, world citizen.
 
-I value collaboration, communication, honesty, and adaptability.
+Ex-IT Specialist, Ex-High School Teacher.  Current Software Engineer.
+
+Let's connect!
