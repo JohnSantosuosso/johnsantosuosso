@@ -31,7 +31,7 @@ I'm a full-stack software engineer and creative problem-solver who thrives on br
 
 <details>
 <summary><h3 style="display: inline;">How do you pronounce Santosuosso? 🗣️</h3></summary>
-"Santa" 🎅 + "Swoss" (rhymes with Boss) + "O" (the letter)
+"Santo" + "Swoss" (rhymes with Floss) + "O" (the letter) 🤌 🇮🇹 🍝 🍕 🍋 🍷
 </details>
 
 <div align="left">
